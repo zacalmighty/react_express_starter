@@ -1,0 +1,7 @@
+pip3 install flask_cors
+pip3 install flask
+pip3 install pyngrok
+Flask~=2.0.1
+spotipy~=2.18.0
+pyngrok~=5.0.5
+qrcode~=6.1
